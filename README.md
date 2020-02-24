@@ -13,3 +13,8 @@ You should create a Mailjet account in Azure.
 Need to configure and activate Sender Domain (eg. example.com and you should be able add DNS entries in TXT format.) and Email ID to send an Email. It's must have step.
 Otherwise it will not send any email.
 
+Addition to above reference. Below is usefull link.
+
+https://www.mailjet.com/blog/news/mailjet-azure-integration/
+
+
